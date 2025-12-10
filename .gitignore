@@ -1,0 +1,8 @@
+# Python / Mac / IDE
+venv/
+.env
+__pycache__/
+*.pyc
+.DS_Store
+.vscode/
+.idea/
