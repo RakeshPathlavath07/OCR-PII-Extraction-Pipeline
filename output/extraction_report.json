@@ -1,0 +1,3148 @@
+{
+    "page_30.jpg": [
+        {
+            "text": "1 W",
+            "cleaned": "1 W",
+            "pii_type": null
+        },
+        {
+            "text": "1V",
+            "cleaned": "1V",
+            "pii_type": null
+        },
+        {
+            "text": "I.P. No",
+            "cleaned": "I.P. No",
+            "pii_type": null
+        },
+        {
+            "text": "OF MEDICAL SCIENCES & SUM HOSPITAL",
+            "cleaned": "OF MEDICAL SCIENCES & SUM HOSPITAL",
+            "pii_type": null
+        },
+        {
+            "text": "PLANQF",
+            "cleaned": "PLANQF",
+            "pii_type": null
+        },
+        {
+            "text": "INSTITUTE",
+            "cleaned": "INSTITUTE",
+            "pii_type": null
+        },
+        {
+            "text": "of Medical Sciences)",
+            "cleaned": "of Medical Sciences)",
+            "pii_type": null
+        },
+        {
+            "text": "(Faculty",
+            "cleaned": "(Faculty",
+            "pii_type": null
+        },
+        {
+            "text": "7",
+            "cleaned": "7",
+            "pii_type": null
+        },
+        {
+            "text": "(Iwa -M",
+            "cleaned": "(Iwa -M",
+            "pii_type": null
+        },
+        {
+            "text": "SIKSHA",
+            "cleaned": "SIKSHA",
+            "pii_type": null
+        },
+        {
+            "text": "0' ANUSANDHAN",
+            "cleaned": "0' ANUSANDHAN",
+            "pii_type": null
+        },
+        {
+            "text": "Ad",
+            "cleaned": "Ad",
+            "pii_type": null
+        },
+        {
+            "text": "(deEMED TO BE UNIVERSITY)",
+            "cleaned": "(deEMED TO BE UNIVERSITY)",
+            "pii_type": null
+        },
+        {
+            "text": "K-8, Kalinga Nagar, Bhubaneswar",
+            "cleaned": "K-8, Kalinga Nagar, Bhubaneswar",
+            "pii_type": null
+        },
+        {
+            "text": "M6T",
+            "cleaned": "M6T",
+            "pii_type": null
+        },
+        {
+            "text": "TROGRESSEREPORI",
+            "cleaned": "TROGRESSEREPORI",
+            "pii_type": null
+        },
+        {
+            "text": "Xardsh",
+            "cleaned": "Xardsh",
+            "pii_type": null
+        },
+        {
+            "text": "6ak",
+            "cleaned": "6ak",
+            "pii_type": null
+        },
+        {
+            "text": "Age:",
+            "cleaned": "Age",
+            "pii_type": "PATIENT_INFO"
+        },
+        {
+            "text": "96",
+            "cleaned": "96",
+            "pii_type": null
+        },
+        {
+            "text": "Sex:",
+            "cleaned": "Sex",
+            "pii_type": "PATIENT_INFO"
+        },
+        {
+            "text": "Patient Name:",
+            "cleaned": "Patient Name",
+            "pii_type": "PATIENT_INFO"
+        },
+        {
+            "text": "N",
+            "cleaned": "IPD No",
+            "pii_type": "PATIENT_INFO"
+        },
+        {
+            "text": "Type",
+            "cleaned": "Type",
+            "pii_type": null
+        },
+        {
+            "text": "46l4",
+            "cleaned": "46l4",
+            "pii_type": null
+        },
+        {
+            "text": "h.",
+            "cleaned": "UHID No",
+            "pii_type": "PATIENT_INFO"
+        },
+        {
+            "text": "Bed No:",
+            "cleaned": "Bed No:",
+            "pii_type": null
+        },
+        {
+            "text": "wi,",
+            "cleaned": "wi,",
+            "pii_type": null
+        },
+        {
+            "text": "UHID No_",
+            "cleaned": "UHID No",
+            "pii_type": "PATIENT_INFO"
+        },
+        {
+            "text": "Dept",
+            "cleaned": "Dept",
+            "pii_type": null
+        },
+        {
+            "text": "Irvesligaticn _",
+            "cleaned": "Irvesligaticn _",
+            "pii_type": null
+        },
+        {
+            "text": "Rcason",
+            "cleaned": "Rcason",
+            "pii_type": null
+        },
+        {
+            "text": "IPD",
+            "cleaned": "IPD No",
+            "pii_type": "PATIENT_INFO"
+        },
+        {
+            "text": "t",
+            "cleaned": "Date",
+            "pii_type": null
+        },
+        {
+            "text": "Adwred",
+            "cleaned": "Adwred",
+            "pii_type": null
+        },
+        {
+            "text": "PROGRESS NOTES",
+            "cleaned": "PROGRESS NOTES",
+            "pii_type": null
+        },
+        {
+            "text": "TREATMENTIADVICE",
+            "cleaned": "TREATMENTIADVICE",
+            "pii_type": null
+        },
+        {
+            "text": "QATE &TIME",
+            "cleaned": "QATE &TIME",
+            "pii_type": null
+        },
+        {
+            "text": "LfC",
+            "cleaned": "LfC",
+            "pii_type": null
+        },
+        {
+            "text": "V) In): MIAmI",
+            "cleaned": "V) In): MIAmI",
+            "pii_type": null
+        },
+        {
+            "text": "Ytivv cf",
+            "cleaned": "Ytivv cf",
+            "pii_type": null
+        },
+        {
+            "text": "drr m1",
+            "cleaned": "Dr.",
+            "pii_type": "DOCTOR"
+        },
+        {
+            "text": "Opo",
+            "cleaned": "Opo",
+            "pii_type": null
+        },
+        {
+            "text": "42",
+            "cleaned": "42",
+            "pii_type": null
+        },
+        {
+            "text": "nJo-d-1",
+            "cleaned": "nJo-d-1",
+            "pii_type": null
+        },
+        {
+            "text": "& (200) T",
+            "cleaned": "& (200) T",
+            "pii_type": null
+        },
+        {
+            "text": "13 '{ Pr",
+            "cleaned": "13 '{ Pr",
+            "pii_type": null
+        },
+        {
+            "text": "k-cloxn Z",
+            "cleaned": "k-cloxn Z",
+            "pii_type": null
+        },
+        {
+            "text": "Iod m",
+            "cleaned": "Iod m",
+            "pii_type": null
+        },
+        {
+            "text": "NS",
+            "cleaned": "NS",
+            "pii_type": null
+        },
+        {
+            "text": "TID",
+            "cleaned": "TID",
+            "pii_type": null
+        },
+        {
+            "text": "dac >",
+            "cleaned": "dac >",
+            "pii_type": null
+        },
+        {
+            "text": "\"lwles",
+            "cleaned": "\"lwles",
+            "pii_type": null
+        },
+        {
+            "text": ":4~ -",
+            "cleaned": ":4~ -",
+            "pii_type": null
+        },
+        {
+            "text": "Ciat",
+            "cleaned": "Ciat",
+            "pii_type": null
+        },
+        {
+            "text": "3iS  RROLRR",
+            "cleaned": "3iS  RROLRR",
+            "pii_type": null
+        },
+        {
+            "text": "Jut Td",
+            "cleaned": "Jut Td",
+            "pii_type": null
+        },
+        {
+            "text": "2",
+            "cleaned": "2",
+            "pii_type": null
+        },
+        {
+            "text": "In) .",
+            "cleaned": "In) .",
+            "pii_type": null
+        },
+        {
+            "text": "07",
+            "cleaned": "07",
+            "pii_type": null
+        },
+        {
+            "text": "BLnaviuRlL",
+            "cleaned": "BLnaviuRlL",
+            "pii_type": null
+        },
+        {
+            "text": "Iuu",
+            "cleaned": "Iuu",
+            "pii_type": null
+        },
+        {
+            "text": "lo 0l ? (lamp) saLy9",
+            "cleaned": "lo 0l ? (lamp) saLy9",
+            "pii_type": null
+        },
+        {
+            "text": "MenitaL",
+            "cleaned": "MenitaL",
+            "pii_type": null
+        },
+        {
+            "text": "{Yn\"? qoml",
+            "cleaned": "{Yn\"? qoml",
+            "pii_type": null
+        },
+        {
+            "text": "24",
+            "cleaned": "24",
+            "pii_type": null
+        },
+        {
+            "text": "Depl ^ilaiol",
+            "cleaned": "Depl ^ilaiol",
+            "pii_type": null
+        },
+        {
+            "text": "rcy",
+            "cleaned": "rcy",
+            "pii_type": null
+        },
+        {
+            "text": "~U",
+            "cleaned": "UHID No",
+            "pii_type": "PATIENT_INFO"
+        },
+        {
+            "text": "me v60c2",
+            "cleaned": "me v60c2",
+            "pii_type": null
+        },
+        {
+            "text": "dr",
+            "cleaned": "Dr.",
+            "pii_type": "DOCTOR"
+        },
+        {
+            "text": "nozy+Fij\"",
+            "cleaned": "nozy+Fij\"",
+            "pii_type": null
+        },
+        {
+            "text": "Til",
+            "cleaned": "Til",
+            "pii_type": null
+        },
+        {
+            "text": "<",
+            "cleaned": "<",
+            "pii_type": null
+        },
+        {
+            "text": "Tmac",
+            "cleaned": "Tmac",
+            "pii_type": null
+        },
+        {
+            "text": "lsamfae |4*Upon:",
+            "cleaned": "lsamfae |4*Upon:",
+            "pii_type": null
+        },
+        {
+            "text": "CN )",
+            "cleaned": "CN )",
+            "pii_type": null
+        },
+        {
+            "text": "Pf (48) (Ui",
+            "cleaned": "Pf (48) (Ui",
+            "pii_type": null
+        },
+        {
+            "text": "{RR[itey",
+            "cleaned": "{RR[itey",
+            "pii_type": null
+        },
+        {
+            "text": "Tabiniw",
+            "cleaned": "Tabiniw",
+            "pii_type": null
+        },
+        {
+            "text": "C0 Lu 0 0",
+            "cleaned": "C0 Lu 0 0",
+            "pii_type": null
+        },
+        {
+            "text": "G4T",
+            "cleaned": "G4T",
+            "pii_type": null
+        },
+        {
+            "text": "Bfeg",
+            "cleaned": "Bfeg",
+            "pii_type": null
+        },
+        {
+            "text": "Talfy ITSA",
+            "cleaned": "Talfy ITSA",
+            "pii_type": null
+        },
+        {
+            "text": "mB\" TAxim_",
+            "cleaned": "mB\" TAxim_",
+            "pii_type": null
+        },
+        {
+            "text": "PpB 5 (fp 5",
+            "cleaned": "PpB 5 (fp 5",
+            "pii_type": null
+        },
+        {
+            "text": "0(a 00) (m9 eD",
+            "cleaned": "0(a 00) (m9 eD",
+            "pii_type": null
+        },
+        {
+            "text": "NC \u20ac T Bvum",
+            "cleaned": "NC \u20ac T Bvum",
+            "pii_type": null
+        },
+        {
+            "text": "8",
+            "cleaned": "8",
+            "pii_type": null
+        },
+        {
+            "text": "Tnm~nie",
+            "cleaned": "Tnm~nie",
+            "pii_type": null
+        },
+        {
+            "text": "(aep)",
+            "cleaned": "(aep)",
+            "pii_type": null
+        },
+        {
+            "text": "Ak",
+            "cleaned": "Ak",
+            "pii_type": null
+        },
+        {
+            "text": "Tr]",
+            "cleaned": "Tr]",
+            "pii_type": null
+        },
+        {
+            "text": "Up,",
+            "cleaned": "Up,",
+            "pii_type": null
+        },
+        {
+            "text": "AI}",
+            "cleaned": "AI}",
+            "pii_type": null
+        },
+        {
+            "text": "Tm",
+            "cleaned": "Tm",
+            "pii_type": null
+        },
+        {
+            "text": "100 n~/",
+            "cleaned": "100 n~/",
+            "pii_type": null
+        },
+        {
+            "text": "Dlet",
+            "cleaned": "Dlet",
+            "pii_type": null
+        },
+        {
+            "text": "2",
+            "cleaned": "2",
+            "pii_type": null
+        },
+        {
+            "text": "2",
+            "cleaned": "2",
+            "pii_type": null
+        },
+        {
+            "text": "(1a~t)",
+            "cleaned": "(1a~t)",
+            "pii_type": null
+        },
+        {
+            "text": "4Ww",
+            "cleaned": "4Ww",
+            "pii_type": null
+        },
+        {
+            "text": "Consiislcncy",
+            "cleaned": "Consiislcncy",
+            "pii_type": null
+        },
+        {
+            "text": "Nonal",
+            "cleaned": "Nonal",
+            "pii_type": null
+        },
+        {
+            "text": "Sott",
+            "cleaned": "Sott",
+            "pii_type": null
+        },
+        {
+            "text": "{",
+            "cleaned": "{",
+            "pii_type": null
+        },
+        {
+            "text": "Trj",
+            "cleaned": "Trj",
+            "pii_type": null
+        },
+        {
+            "text": "L opE",
+            "cleaned": "L opE",
+            "pii_type": null
+        },
+        {
+            "text": "Liquid",
+            "cleaned": "Liquid",
+            "pii_type": null
+        },
+        {
+            "text": "Type",
+            "cleaned": "Type",
+            "pii_type": null
+        },
+        {
+            "text": "Nomal",
+            "cleaned": "Nomal",
+            "pii_type": null
+        },
+        {
+            "text": "Diatutic",
+            "cleaned": "Diatutic",
+            "pii_type": null
+        },
+        {
+            "text": "Lowvsalt",
+            "cleaned": "Lowvsalt",
+            "pii_type": null
+        },
+        {
+            "text": "Othcr",
+            "cleaned": "Othcr",
+            "pii_type": null
+        },
+        {
+            "text": "(V",
+            "cleaned": "(V",
+            "pii_type": null
+        },
+        {
+            "text": "Trp$",
+            "cleaned": "Trp$",
+            "pii_type": null
+        },
+        {
+            "text": "4 -",
+            "cleaned": "4 -",
+            "pii_type": null
+        },
+        {
+            "text": "\"%",
+            "cleaned": "\"%",
+            "pii_type": null
+        },
+        {
+            "text": "fo$",
+            "cleaned": "fo$",
+            "pii_type": null
+        },
+        {
+            "text": "PovotveCara",
+            "cleaned": "PovotveCara",
+            "pii_type": null
+        },
+        {
+            "text": "~>",
+            "cleaned": "~>",
+            "pii_type": null
+        },
+        {
+            "text": "P4n(y\")",
+            "cleaned": "P4n(y\")",
+            "pii_type": null
+        },
+        {
+            "text": "~1",
+            "cleaned": "~1",
+            "pii_type": null
+        },
+        {
+            "text": "w\" + [",
+            "cleaned": "w\" + [",
+            "pii_type": null
+        },
+        {
+            "text": "Iv",
+            "cleaned": "Iv",
+            "pii_type": null
+        },
+        {
+            "text": "21)",
+            "cleaned": "21)",
+            "pii_type": null
+        },
+        {
+            "text": "0f",
+            "cleaned": "0f",
+            "pii_type": null
+        },
+        {
+            "text": "Tc\"r",
+            "cleaned": "Tc\"r",
+            "pii_type": null
+        },
+        {
+            "text": "I-i",
+            "cleaned": "Patient Name",
+            "pii_type": "PATIENT_INFO"
+        },
+        {
+            "text": "3",
+            "cleaned": "3",
+            "pii_type": null
+        },
+        {
+            "text": "e)k",
+            "cleaned": "e)k",
+            "pii_type": null
+        },
+        {
+            "text": "Rrefueices",
+            "cleaned": "Rrefueices",
+            "pii_type": null
+        },
+        {
+            "text": "Re",
+            "cleaned": "Re",
+            "pii_type": null
+        },
+        {
+            "text": "TTnb .",
+            "cleaned": "TTnb .",
+            "pii_type": null
+        },
+        {
+            "text": "Taxin) - 0",
+            "cleaned": "Taxin) - 0",
+            "pii_type": null
+        },
+        {
+            "text": "2 re)",
+            "cleaned": "2 re)",
+            "pii_type": null
+        },
+        {
+            "text": "Resident Signature",
+            "cleaned": "Resident Signature",
+            "pii_type": null
+        },
+        {
+            "text": "1",
+            "cleaned": "1",
+            "pii_type": null
+        },
+        {
+            "text": "345",
+            "cleaned": "345",
+            "pii_type": null
+        },
+        {
+            "text": "121",
+            "cleaned": "121",
+            "pii_type": null
+        },
+        {
+            "text": "Full Namc",
+            "cleaned": "Full Namc",
+            "pii_type": null
+        },
+        {
+            "text": "pp",
+            "cleaned": "pp",
+            "pii_type": null
+        },
+        {
+            "text": "PR(t:r",
+            "cleaned": "PR(t:r",
+            "pii_type": null
+        },
+        {
+            "text": "mrtwle No.",
+            "cleaned": "IPD No",
+            "pii_type": "DOCTOR"
+        },
+        {
+            "text": "PrUm",
+            "cleaned": "PrUm",
+            "pii_type": null
+        },
+        {
+            "text": "YVa\" LLLPAm NVnl",
+            "cleaned": "YVa\" LLLPAm NVnl",
+            "pii_type": null
+        },
+        {
+            "text": "Dalr",
+            "cleaned": "Dalr",
+            "pii_type": null
+        },
+        {
+            "text": "No",
+            "cleaned": "IPD No",
+            "pii_type": "PATIENT_INFO"
+        },
+        {
+            "text": "mou aPiapa",
+            "cleaned": "mou aPiapa",
+            "pii_type": null
+        },
+        {
+            "text": "(Cond",
+            "cleaned": "(Cond",
+            "pii_type": null
+        },
+        {
+            "text": "Trne",
+            "cleaned": "Trne",
+            "pii_type": null
+        },
+        {
+            "text": "CARE",
+            "cleaned": "CARE",
+            "pii_type": null
+        },
+        {
+            "text": "Reslrairts",
+            "cleaned": "Reslrairts",
+            "pii_type": null
+        },
+        {
+            "text": "9733'",
+            "cleaned": "9733'",
+            "pii_type": null
+        },
+        {
+            "text": "SKN+n>",
+            "cleaned": "SKN+n>",
+            "pii_type": null
+        },
+        {
+            "text": "No:( Ya",
+            "cleaned": "No:( Ya",
+            "pii_type": null
+        },
+        {
+            "text": "Advised",
+            "cleaned": "Advised",
+            "pii_type": null
+        },
+        {
+            "text": "Treatrert",
+            "cleaned": "Treatrert",
+            "pii_type": null
+        },
+        {
+            "text": "MFT",
+            "cleaned": "MFT",
+            "pii_type": null
+        },
+        {
+            "text": "bkl -",
+            "cleaned": "bkl -",
+            "pii_type": null
+        },
+        {
+            "text": "\"uk",
+            "cleaned": "\"uk",
+            "pii_type": null
+        },
+        {
+            "text": "3 ' ro P~",
+            "cleaned": "3 ' ro P~",
+            "pii_type": null
+        },
+        {
+            "text": "A1nto",
+            "cleaned": "A1nto",
+            "pii_type": null
+        },
+        {
+            "text": "UfE",
+            "cleaned": "UfE",
+            "pii_type": null
+        },
+        {
+            "text": "024",
+            "cleaned": "024",
+            "pii_type": null
+        },
+        {
+            "text": "Vils",
+            "cleaned": "Vils",
+            "pii_type": null
+        },
+        {
+            "text": "p3p",
+            "cleaned": "p3p",
+            "pii_type": null
+        },
+        {
+            "text": "Tute",
+            "cleaned": "Tute",
+            "pii_type": null
+        },
+        {
+            "text": "Fceds",
+            "cleaned": "Fceds",
+            "pii_type": null
+        },
+        {
+            "text": "Fasung",
+            "cleaned": "Fasung",
+            "pii_type": null
+        },
+        {
+            "text": "Rk -",
+            "cleaned": "Rk -",
+            "pii_type": null
+        },
+        {
+            "text": "Reaident",
+            "cleaned": "Reaident",
+            "pii_type": null
+        },
+        {
+            "text": "PcygN;'",
+            "cleaned": "PcygN;'",
+            "pii_type": null
+        },
+        {
+            "text": "Jon?",
+            "cleaned": "Jon?",
+            "pii_type": null
+        },
+        {
+            "text": "Dept",
+            "cleaned": "Dept",
+            "pii_type": null
+        },
+        {
+            "text": "Hirarmzya",
+            "cleaned": "Hirarmzya",
+            "pii_type": null
+        },
+        {
+            "text": "46*",
+            "cleaned": "46*",
+            "pii_type": null
+        },
+        {
+            "text": "JA1s",
+            "cleaned": "JA1s",
+            "pii_type": null
+        },
+        {
+            "text": "Deu",
+            "cleaned": "Deu",
+            "pii_type": null
+        },
+        {
+            "text": "Cunsultant",
+            "cleaned": "Cunsultant",
+            "pii_type": null
+        },
+        {
+            "text": "\"",
+            "cleaned": "\"",
+            "pii_type": null
+        },
+        {
+            "text": "Siyna*ure",
+            "cleaned": "Siyna*ure",
+            "pii_type": null
+        },
+        {
+            "text": "Full",
+            "cleaned": "Full",
+            "pii_type": null
+        },
+        {
+            "text": "Name",
+            "cleaned": "Patient Name",
+            "pii_type": "PATIENT_INFO"
+        },
+        {
+            "text": "Mlobile",
+            "cleaned": "Mlobile",
+            "pii_type": null
+        },
+        {
+            "text": "Caie:",
+            "cleaned": "Caie:",
+            "pii_type": null
+        },
+        {
+            "text": "Tmie:",
+            "cleaned": "Tmie:",
+            "pii_type": null
+        }
+    ],
+    "page_35.jpg": [
+        {
+            "text": "19/h",
+            "cleaned": "19/h",
+            "pii_type": null
+        },
+        {
+            "text": "31",
+            "cleaned": "31",
+            "pii_type": null
+        },
+        {
+            "text": "M",
+            "cleaned": "M",
+            "pii_type": null
+        },
+        {
+            "text": "#8",
+            "cleaned": "#8",
+            "pii_type": null
+        },
+        {
+            "text": "4h",
+            "cleaned": "4h",
+            "pii_type": null
+        },
+        {
+            "text": "4",
+            "cleaned": "4",
+            "pii_type": null
+        },
+        {
+            "text": "INSTITUTE OF MEDICAL SCIENCES & SUM HOSPITAL",
+            "cleaned": "INSTITUTE OF MEDICAL SCIENCES & SUM HOSPITAL",
+            "pii_type": null
+        },
+        {
+            "text": "INSTITUTE OF MEDICAL SCIENCES & SUM HOSPITAL",
+            "cleaned": "INSTITUTE OF MEDICAL SCIENCES & SUM HOSPITAL",
+            "pii_type": null
+        },
+        {
+            "text": "(Faculty of Mledical Sciences)",
+            "cleaned": "(Faculty of Mledical Sciences)",
+            "pii_type": null
+        },
+        {
+            "text": "(Faculty of Atcdical Scicnces)",
+            "cleaned": "(Faculty of Atcdical Scicnces)",
+            "pii_type": null
+        },
+        {
+            "text": "SIKSHA",
+            "cleaned": "SIKSHA",
+            "pii_type": null
+        },
+        {
+            "text": "0' ANUSANDHAN",
+            "cleaned": "0' ANUSANDHAN",
+            "pii_type": null
+        },
+        {
+            "text": "SIKSHA *0' ANUSANDHAN",
+            "cleaned": "SIKSHA *0' ANUSANDHAN",
+            "pii_type": null
+        },
+        {
+            "text": "(deeMED TO BE UNIVERSITY)",
+            "cleaned": "(deeMED TO BE UNIVERSITY)",
+            "pii_type": null
+        },
+        {
+            "text": "(DEEMED TO BE UNIVERSITY)",
+            "cleaned": "(DEEMED TO BE UNIVERSITY)",
+            "pii_type": null
+        },
+        {
+            "text": "K-8, Kalinga Negar: Zhubaneswar",
+            "cleaned": "K-8, Kalinga Negar: Zhubaneswar",
+            "pii_type": null
+        },
+        {
+            "text": "K-8, Kalinga Nagar Bhiubaresvar",
+            "cleaned": "K-8, Kalinga Nagar Bhiubaresvar",
+            "pii_type": null
+        },
+        {
+            "text": "Jprogress)rEPORI",
+            "cleaned": "Jprogress)rEPORI",
+            "pii_type": null
+        },
+        {
+            "text": "{PROGRESSITREPORTZ",
+            "cleaned": "{PROGRESSITREPORTZ",
+            "pii_type": null
+        },
+        {
+            "text": "Paleni Nam?:",
+            "cleaned": "Paleni Nam?:",
+            "pii_type": null
+        },
+        {
+            "text": "'ntusl_kul",
+            "cleaned": "'ntusl_kul",
+            "pii_type": null
+        },
+        {
+            "text": "Age:",
+            "cleaned": "Age",
+            "pii_type": "PATIENT_INFO"
+        },
+        {
+            "text": "26%",
+            "cleaned": "26%",
+            "pii_type": null
+        },
+        {
+            "text": "Sex: /1",
+            "cleaned": "Sex",
+            "pii_type": "PATIENT_INFO"
+        },
+        {
+            "text": "Patiant Name:",
+            "cleaned": "Patient Name",
+            "pii_type": "PATIENT_INFO"
+        },
+        {
+            "text": "h",
+            "cleaned": "UHID No",
+            "pii_type": "PATIENT_INFO"
+        },
+        {
+            "text": "b",
+            "cleaned": "b",
+            "pii_type": null
+        },
+        {
+            "text": "ealt",
+            "cleaned": "ealt",
+            "pii_type": null
+        },
+        {
+            "text": "Ly,",
+            "cleaned": "Ly,",
+            "pii_type": null
+        },
+        {
+            "text": "Age:",
+            "cleaned": "Age",
+            "pii_type": "PATIENT_INFO"
+        },
+        {
+            "text": "Sex:",
+            "cleaned": "Sex",
+            "pii_type": "PATIENT_INFO"
+        },
+        {
+            "text": "IPO No:.4236+21531",
+            "cleaned": "IPD No",
+            "pii_type": "PATIENT_INFO"
+        },
+        {
+            "text": "UHID No",
+            "cleaned": "UHID No",
+            "pii_type": "PATIENT_INFO"
+        },
+        {
+            "text": "Qezsl 4ue1d5",
+            "cleaned": "Qezsl 4ue1d5",
+            "pii_type": null
+        },
+        {
+            "text": "Bed No:",
+            "cleaned": "Bed No:",
+            "pii_type": null
+        },
+        {
+            "text": "Ic",
+            "cleaned": "Ic",
+            "pii_type": null
+        },
+        {
+            "text": "IPDNo:.222.12212!",
+            "cleaned": "IPDNo:.222.12212!",
+            "pii_type": null
+        },
+        {
+            "text": "UHID No:.2c252 QucOs",
+            "cleaned": "UHID No",
+            "pii_type": "PATIENT_INFO"
+        },
+        {
+            "text": "BedNo:",
+            "cleaned": "BedNo:",
+            "pii_type": null
+        },
+        {
+            "text": "DATC &TIME",
+            "cleaned": "DATC &TIME",
+            "pii_type": null
+        },
+        {
+            "text": "PnOGRESS NOTES",
+            "cleaned": "PnOGRESS NOTES",
+            "pii_type": null
+        },
+        {
+            "text": "TREATMENT AOVICE",
+            "cleaned": "TREATMENT AOVICE",
+            "pii_type": null
+        },
+        {
+            "text": "SIGNATURE",
+            "cleaned": "SIGNATURE",
+            "pii_type": null
+        },
+        {
+            "text": "O^te *Time",
+            "cleaned": "O^te *Time",
+            "pii_type": null
+        },
+        {
+            "text": "PaOgnESS NOTES",
+            "cleaned": "PaOgnESS NOTES",
+            "pii_type": null
+        },
+        {
+            "text": "SIGNATURE",
+            "cleaned": "SIGNATURE",
+            "pii_type": null
+        },
+        {
+            "text": "TREATMCNTIADVICE",
+            "cleaned": "TREATMCNTIADVICE",
+            "pii_type": null
+        },
+        {
+            "text": "OF DOCTOF",
+            "cleaned": "OF DOCTOF",
+            "pii_type": null
+        },
+        {
+            "text": "OF OCCTOR",
+            "cleaned": "OF OCCTOR",
+            "pii_type": null
+        },
+        {
+            "text": "6",
+            "cleaned": "6",
+            "pii_type": null
+        },
+        {
+            "text": "{owhs",
+            "cleaned": "{owhs",
+            "pii_type": null
+        },
+        {
+            "text": "@li &l",
+            "cleaned": "@li &l",
+            "pii_type": null
+        },
+        {
+            "text": "44]",
+            "cleaned": "44]",
+            "pii_type": null
+        },
+        {
+            "text": "287",
+            "cleaned": "287",
+            "pii_type": null
+        },
+        {
+            "text": "MeNTt",
+            "cleaned": "MeNTt",
+            "pii_type": null
+        },
+        {
+            "text": "Anb BehaMrAl",
+            "cleaned": "Anb BehaMrAl",
+            "pii_type": null
+        },
+        {
+            "text": "Disdrve OueTu &32 or",
+            "cleaned": "Disdrve OueTu &32 or",
+            "pii_type": null
+        },
+        {
+            "text": "Rxkei)",
+            "cleaned": "Rxkei)",
+            "pii_type": null
+        },
+        {
+            "text": "Repv ked",
+            "cleaned": "Repv ked",
+            "pii_type": null
+        },
+        {
+            "text": "3f1",
+            "cleaned": "3f1",
+            "pii_type": null
+        },
+        {
+            "text": "ALcoHOL",
+            "cleaned": "ALcoHOL",
+            "pii_type": null
+        },
+        {
+            "text": "DepenDtye",
+            "cleaned": "DepenDtye",
+            "pii_type": null
+        },
+        {
+            "text": "S-INDRcr 2",
+            "cleaned": "Dr.",
+            "pii_type": null
+        },
+        {
+            "text": "(URPENtly",
+            "cleaned": "(URPENtly",
+            "pii_type": null
+        },
+        {
+            "text": "09061",
+            "cleaned": "09061",
+            "pii_type": null
+        },
+        {
+            "text": "8i &an",
+            "cleaned": "8i &an",
+            "pii_type": null
+        },
+        {
+            "text": "Thb SubStaneE",
+            "cleaned": "Thb SubStaneE",
+            "pii_type": null
+        },
+        {
+            "text": "OGn",
+            "cleaned": "OGn",
+            "pii_type": null
+        },
+        {
+            "text": "Obsvv~lm",
+            "cleaned": "Obsvv~lm",
+            "pii_type": null
+        },
+        {
+            "text": "Nital",
+            "cleaned": "Nital",
+            "pii_type": null
+        },
+        {
+            "text": "Rx_",
+            "cleaned": "Rx_",
+            "pii_type": null
+        },
+        {
+            "text": "Mwri",
+            "cleaned": "Mwri",
+            "pii_type": null
+        },
+        {
+            "text": "10i9+a?",
+            "cleaned": "10i9+a?",
+            "pii_type": null
+        },
+        {
+            "text": "WIct",
+            "cleaned": "WIct",
+            "pii_type": null
+        },
+        {
+            "text": "ul 17) Tip",
+            "cleaned": "ul 17) Tip",
+            "pii_type": null
+        },
+        {
+            "text": "Izicath .",
+            "cleaned": "Izicath .",
+            "pii_type": null
+        },
+        {
+            "text": "Pr _ lS +uc 1l",
+            "cleaned": "Pr _ lS +uc 1l",
+            "pii_type": null
+        },
+        {
+            "text": "Jn]",
+            "cleaned": "Jn]",
+            "pii_type": null
+        },
+        {
+            "text": "B0 zud",
+            "cleaned": "B0 zud",
+            "pii_type": null
+        },
+        {
+            "text": "In] lPz2",
+            "cleaned": "In] lPz2",
+            "pii_type": null
+        },
+        {
+            "text": "(1=",
+            "cleaned": "(1=",
+            "pii_type": null
+        },
+        {
+            "text": "auyp ) elbw iv",
+            "cleaned": "auyp ) elbw iv",
+            "pii_type": null
+        },
+        {
+            "text": "Aw\"",
+            "cleaned": "Aw\"",
+            "pii_type": null
+        },
+        {
+            "text": "Lr}",
+            "cleaned": "Lr}",
+            "pii_type": null
+        },
+        {
+            "text": "hol",
+            "cleaned": "hol",
+            "pii_type": null
+        },
+        {
+            "text": "Pr",
+            "cleaned": "Pr",
+            "pii_type": null
+        },
+        {
+            "text": "4G",
+            "cleaned": "4G",
+            "pii_type": null
+        },
+        {
+            "text": "Alu^",
+            "cleaned": "Alu^",
+            "pii_type": null
+        },
+        {
+            "text": "er",
+            "cleaned": "er",
+            "pii_type": null
+        },
+        {
+            "text": "(t [ Alun",
+            "cleaned": "(t [ Alun",
+            "pii_type": null
+        },
+        {
+            "text": "Cvs",
+            "cleaned": "Cvs",
+            "pii_type": null
+        },
+        {
+            "text": "3",
+            "cleaned": "3",
+            "pii_type": null
+        },
+        {
+            "text": "Jnj Imluu) 1 vIal",
+            "cleaned": "Jnj Imluu) 1 vIal",
+            "pii_type": null
+        },
+        {
+            "text": "IY",
+            "cleaned": "IY",
+            "pii_type": null
+        },
+        {
+            "text": "w eleF",
+            "cleaned": "w eleF",
+            "pii_type": null
+        },
+        {
+            "text": "7",
+            "cleaned": "7",
+            "pii_type": null
+        },
+        {
+            "text": "91 6 F",
+            "cleaned": "91 6 F",
+            "pii_type": null
+        },
+        {
+            "text": "mxnd",
+            "cleaned": "mxnd",
+            "pii_type": null
+        },
+        {
+            "text": "Ore <",
+            "cleaned": "Ore <",
+            "pii_type": null
+        },
+        {
+            "text": "I4",
+            "cleaned": "I4",
+            "pii_type": null
+        },
+        {
+            "text": "4)",
+            "cleaned": "4)",
+            "pii_type": null
+        },
+        {
+            "text": "@IFIla =",
+            "cleaned": "@IFIla =",
+            "pii_type": null
+        },
+        {
+            "text": "(",
+            "cleaned": "(",
+            "pii_type": null
+        },
+        {
+            "text": "40",
+            "cleaned": "40",
+            "pii_type": null
+        },
+        {
+            "text": "1",
+            "cleaned": "1",
+            "pii_type": null
+        },
+        {
+            "text": "{ap{BD",
+            "cleaned": "{ap{BD",
+            "pii_type": null
+        },
+        {
+            "text": "w",
+            "cleaned": "w",
+            "pii_type": null
+        },
+        {
+            "text": "1",
+            "cleaned": "1",
+            "pii_type": null
+        },
+        {
+            "text": "ec",
+            "cleaned": "ec",
+            "pii_type": null
+        },
+        {
+            "text": "8-&ne",
+            "cleaned": "8-&ne",
+            "pii_type": null
+        },
+        {
+            "text": "(p",
+            "cleaned": "IPD No",
+            "pii_type": "PATIENT_INFO"
+        },
+        {
+            "text": "pe*0\u20acangE",
+            "cleaned": "pe*0\u20acangE",
+            "pii_type": null
+        },
+        {
+            "text": "1",
+            "cleaned": "1",
+            "pii_type": null
+        },
+        {
+            "text": "LMAA}",
+            "cleaned": "LMAA}",
+            "pii_type": null
+        },
+        {
+            "text": "6}",
+            "cleaned": "6}",
+            "pii_type": null
+        },
+        {
+            "text": "Syp",
+            "cleaned": "Syp",
+            "pii_type": null
+        },
+        {
+            "text": "HerAp",
+            "cleaned": "HerAp",
+            "pii_type": null
+        },
+        {
+            "text": "Mht %",
+            "cleaned": "Mht %",
+            "pii_type": null
+        },
+        {
+            "text": "(14444\" FD",
+            "cleaned": "(14444\" FD",
+            "pii_type": null
+        },
+        {
+            "text": "IrrSto o",
+            "cleaned": "IrrSto o",
+            "pii_type": null
+        },
+        {
+            "text": "Wword ",
+            "cleaned": "Wword ",
+            "pii_type": null
+        },
+        {
+            "text": "1)",
+            "cleaned": "1)",
+            "pii_type": null
+        },
+        {
+            "text": "Thro RiDxphop? Ct",
+            "cleaned": "Thro RiDxphop? Ct",
+            "pii_type": null
+        },
+        {
+            "text": "4/4",
+            "cleaned": "4/4",
+            "pii_type": null
+        },
+        {
+            "text": "8) , Nitplen",
+            "cleaned": "8) , Nitplen",
+            "pii_type": null
+        },
+        {
+            "text": "ChelLEt",
+            "cleaned": "ChelLEt",
+            "pii_type": null
+        },
+        {
+            "text": "G2kj) 4'6",
+            "cleaned": "G2kj) 4'6",
+            "pii_type": null
+        },
+        {
+            "text": "f-W",
+            "cleaned": "f-W",
+            "pii_type": null
+        },
+        {
+            "text": "menar",
+            "cleaned": "menar",
+            "pii_type": null
+        },
+        {
+            "text": "4 Adiy",
+            "cleaned": "4 Adiy",
+            "pii_type": null
+        },
+        {
+            "text": "6",
+            "cleaned": "6",
+            "pii_type": null
+        },
+        {
+            "text": "Bv",
+            "cleaned": "Bv",
+            "pii_type": null
+        },
+        {
+            "text": "1nker ict3",
+            "cleaned": "1nker ict3",
+            "pii_type": null
+        },
+        {
+            "text": "4o",
+            "cleaned": "4o",
+            "pii_type": null
+        },
+        {
+            "text": "pl",
+            "cleaned": "pl",
+            "pii_type": null
+        },
+        {
+            "text": "#8 ~iq",
+            "cleaned": "#8 ~iq",
+            "pii_type": null
+        },
+        {
+            "text": "<",
+            "cleaned": "<",
+            "pii_type": null
+        },
+        {
+            "text": "~47+L~",
+            "cleaned": "~47+L~",
+            "pii_type": null
+        },
+        {
+            "text": "Lobsel",
+            "cleaned": "Lobsel",
+            "pii_type": null
+        },
+        {
+            "text": "6",
+            "cleaned": "6",
+            "pii_type": null
+        },
+        {
+            "text": "9",
+            "cleaned": "9",
+            "pii_type": null
+        },
+        {
+            "text": "Bodd",
+            "cleaned": "Bodd",
+            "pii_type": null
+        },
+        {
+            "text": "Hexiaev %f Hod",
+            "cleaned": "Hexiaev %f Hod",
+            "pii_type": null
+        },
+        {
+            "text": "{Conrd",
+            "cleaned": "{Conrd",
+            "pii_type": null
+        },
+        {
+            "text": "9o",
+            "cleaned": "9o",
+            "pii_type": null
+        },
+        {
+            "text": "1-7/",
+            "cleaned": "1-7/",
+            "pii_type": null
+        },
+        {
+            "text": "niyi",
+            "cleaned": "niyi",
+            "pii_type": null
+        },
+        {
+            "text": "22o6 )",
+            "cleaned": "22o6 )",
+            "pii_type": null
+        },
+        {
+            "text": "crened",
+            "cleaned": "crened",
+            "pii_type": null
+        },
+        {
+            "text": "Lbc",
+            "cleaned": "Lbc",
+            "pii_type": null
+        },
+        {
+            "text": "Uxd",
+            "cleaned": "Uxd",
+            "pii_type": null
+        },
+        {
+            "text": "Uxheo",
+            "cleaned": "Uxheo",
+            "pii_type": null
+        },
+        {
+            "text": "1,8 3\"",
+            "cleaned": "1,8 3\"",
+            "pii_type": null
+        },
+        {
+            "text": "phl",
+            "cleaned": "phl",
+            "pii_type": null
+        },
+        {
+            "text": "'tap",
+            "cleaned": "'tap",
+            "pii_type": null
+        },
+        {
+            "text": "tdpoD",
+            "cleaned": "tdpoD",
+            "pii_type": null
+        },
+        {
+            "text": "Qev'i =",
+            "cleaned": "Qev'i =",
+            "pii_type": null
+        },
+        {
+            "text": ")",
+            "cleaned": ")",
+            "pii_type": null
+        },
+        {
+            "text": "'&Rq_",
+            "cleaned": "'&Rq_",
+            "pii_type": null
+        },
+        {
+            "text": "fsheiy",
+            "cleaned": "fsheiy",
+            "pii_type": null
+        },
+        {
+            "text": "110.4,9",
+            "cleaned": "110.4,9",
+            "pii_type": null
+        },
+        {
+            "text": "BBSR",
+            "cleaned": "BBSR",
+            "pii_type": null
+        },
+        {
+            "text": "HosLitnl =",
+            "cleaned": "HosLitnl =",
+            "pii_type": null
+        },
+        {
+            "text": "00",
+            "cleaned": "00",
+            "pii_type": null
+        },
+        {
+            "text": "No-",
+            "cleaned": "IPD No",
+            "pii_type": "PATIENT_INFO"
+        },
+        {
+            "text": "Sum",
+            "cleaned": "Sum",
+            "pii_type": null
+        },
+        {
+            "text": "Rcqa",
+            "cleaned": "Rcqa",
+            "pii_type": null
+        },
+        {
+            "text": "mRS .",
+            "cleaned": "mRS .",
+            "pii_type": "DOCTOR"
+        },
+        {
+            "text": "'MS",
+            "cleaned": "'MS",
+            "pii_type": null
+        },
+        {
+            "text": "Acle",
+            "cleaned": "Acle",
+            "pii_type": null
+        }
+    ],
+    "page_14.jpg": [
+        {
+            "text": "(Amnroved Nan)",
+            "cleaned": "(Amnroved Nan)",
+            "pii_type": null
+        },
+        {
+            "text": "1",
+            "cleaned": "1",
+            "pii_type": null
+        },
+        {
+            "text": "1X",
+            "cleaned": "1X",
+            "pii_type": null
+        },
+        {
+            "text": "14",
+            "cleaned": "14",
+            "pii_type": null
+        },
+        {
+            "text": "45 eli",
+            "cleaned": "45 eli",
+            "pii_type": null
+        },
+        {
+            "text": "HUkc_",
+            "cleaned": "HUkc_",
+            "pii_type": null
+        },
+        {
+            "text": "21",
+            "cleaned": "21",
+            "pii_type": null
+        },
+        {
+            "text": "L",
+            "cleaned": "L",
+            "pii_type": null
+        },
+        {
+            "text": "Duyyppioveonvame)",
+            "cleaned": "Duyyppioveonvame)",
+            "pii_type": null
+        },
+        {
+            "text": "6",
+            "cleaned": "6",
+            "pii_type": null
+        },
+        {
+            "text": "LDI",
+            "cleaned": "LDI",
+            "pii_type": null
+        },
+        {
+            "text": "VPNI",
+            "cleaned": "VPNI",
+            "pii_type": null
+        },
+        {
+            "text": "6",
+            "cleaned": "6",
+            "pii_type": null
+        },
+        {
+            "text": "Hen",
+            "cleaned": "Hen",
+            "pii_type": null
+        },
+        {
+            "text": "Mlun",
+            "cleaned": "Mlun",
+            "pii_type": null
+        },
+        {
+            "text": "#Llbl",
+            "cleaned": "#Llbl",
+            "pii_type": null
+        },
+        {
+            "text": "Hm",
+            "cleaned": "Hm",
+            "pii_type": null
+        },
+        {
+            "text": "70DMB@ pHog GEL",
+            "cleaned": "70DMB@ pHog GEL",
+            "pii_type": null
+        },
+        {
+            "text": "10",
+            "cleaned": "10",
+            "pii_type": null
+        },
+        {
+            "text": "4jt",
+            "cleaned": "4jt",
+            "pii_type": null
+        },
+        {
+            "text": "F2Ytz ",
+            "cleaned": "F2Ytz ",
+            "pii_type": null
+        },
+        {
+            "text": ";0",
+            "cleaned": ";0",
+            "pii_type": null
+        },
+        {
+            "text": "a ",
+            "cleaned": "Age",
+            "pii_type": "PATIENT_INFO"
+        },
+        {
+            "text": "Juse",
+            "cleaned": "Juse",
+            "pii_type": null
+        },
+        {
+            "text": "Rozo |zthe Directun",
+            "cleaned": "Rozo |zthe Directun",
+            "pii_type": null
+        },
+        {
+            "text": "{2",
+            "cleaned": "{2",
+            "pii_type": null
+        },
+        {
+            "text": "bxu",
+            "cleaned": "bxu",
+            "pii_type": null
+        },
+        {
+            "text": "Dcse",
+            "cleaned": "Dcse",
+            "pii_type": null
+        },
+        {
+            "text": "Ruule Other Direzion",
+            "cleaned": "Ruule Other Direzion",
+            "pii_type": null
+        },
+        {
+            "text": "Kom",
+            "cleaned": "Kom",
+            "pii_type": null
+        },
+        {
+            "text": "@v",
+            "cleaned": "@v",
+            "pii_type": null
+        },
+        {
+            "text": "9n684",
+            "cleaned": "9n684",
+            "pii_type": null
+        },
+        {
+            "text": "44",
+            "cleaned": "44",
+            "pii_type": null
+        },
+        {
+            "text": "\"",
+            "cleaned": "\"",
+            "pii_type": null
+        },
+        {
+            "text": "ale&",
+            "cleaned": "ale&",
+            "pii_type": null
+        },
+        {
+            "text": "3",
+            "cleaned": "3",
+            "pii_type": null
+        },
+        {
+            "text": "17erv=",
+            "cleaned": "17erv=",
+            "pii_type": null
+        },
+        {
+            "text": "~42",
+            "cleaned": "~42",
+            "pii_type": null
+        },
+        {
+            "text": "Date & Time",
+            "cleaned": "Date",
+            "pii_type": null
+        },
+        {
+            "text": "Str3e",
+            "cleaned": "Str3e",
+            "pii_type": null
+        },
+        {
+            "text": "K",
+            "cleaned": "K",
+            "pii_type": null
+        },
+        {
+            "text": "[dk ",
+            "cleaned": "[dk ",
+            "pii_type": null
+        },
+        {
+            "text": "U",
+            "cleaned": "UHID No",
+            "pii_type": "PATIENT_INFO"
+        },
+        {
+            "text": "14zs",
+            "cleaned": "14zs",
+            "pii_type": null
+        },
+        {
+            "text": "B'k:q",
+            "cleaned": "B'k:q",
+            "pii_type": null
+        },
+        {
+            "text": "15.62s",
+            "cleaned": "15.62s",
+            "pii_type": null
+        },
+        {
+            "text": "#r' KoKesh",
+            "cleaned": "#r' KoKesh",
+            "pii_type": null
+        },
+        {
+            "text": "24",
+            "cleaned": "24",
+            "pii_type": null
+        },
+        {
+            "text": "{Acroved Namte)",
+            "cleaned": "{Acroved Namte)",
+            "pii_type": null
+        },
+        {
+            "text": "Drug (Apprcved Name)",
+            "cleaned": "Patient Name",
+            "pii_type": "PATIENT_INFO"
+        },
+        {
+            "text": "T44TAiM",
+            "cleaned": "T44TAiM",
+            "pii_type": null
+        },
+        {
+            "text": "NTCOgun QIEuzed",
+            "cleaned": "NTCOgun QIEuzed",
+            "pii_type": null
+        },
+        {
+            "text": "(io}",
+            "cleaned": "(io}",
+            "pii_type": null
+        },
+        {
+            "text": "Disu",
+            "cleaned": "Disu",
+            "pii_type": null
+        },
+        {
+            "text": "Rgule pmi Direchon",
+            "cleaned": "Rgule pmi Direchon",
+            "pii_type": null
+        },
+        {
+            "text": "%",
+            "cleaned": "%",
+            "pii_type": null
+        },
+        {
+            "text": "Cste:",
+            "cleaned": "Cste:",
+            "pii_type": null
+        },
+        {
+            "text": "Routz",
+            "cleaned": "Routz",
+            "pii_type": null
+        },
+        {
+            "text": "Iothe Dret:ti)o)",
+            "cleaned": "Dr.",
+            "pii_type": null
+        },
+        {
+            "text": "Accrd",
+            "cleaned": "Accrd",
+            "pii_type": null
+        },
+        {
+            "text": "X",
+            "cleaned": "Sex",
+            "pii_type": "PATIENT_INFO"
+        },
+        {
+            "text": "Twik:",
+            "cleaned": "Twik:",
+            "pii_type": null
+        },
+        {
+            "text": "4",
+            "cleaned": "4",
+            "pii_type": null
+        },
+        {
+            "text": "14",
+            "cleaned": "14",
+            "pii_type": null
+        },
+        {
+            "text": "{Yo",
+            "cleaned": "{Yo",
+            "pii_type": null
+        },
+        {
+            "text": "ud us",
+            "cleaned": "ud us",
+            "pii_type": null
+        },
+        {
+            "text": "8 Time",
+            "cleaned": "8 Time",
+            "pii_type": null
+        },
+        {
+            "text": "Sgnalure",
+            "cleaned": "Sgnalure",
+            "pii_type": null
+        },
+        {
+            "text": "Acv",
+            "cleaned": "Acv",
+            "pii_type": null
+        },
+        {
+            "text": "'1",
+            "cleaned": "'1",
+            "pii_type": null
+        },
+        {
+            "text": "LLis",
+            "cleaned": "LLis",
+            "pii_type": null
+        },
+        {
+            "text": "M",
+            "cleaned": "M",
+            "pii_type": null
+        },
+        {
+            "text": "W",
+            "cleaned": "W",
+            "pii_type": null
+        },
+        {
+            "text": "2",
+            "cleaned": "2",
+            "pii_type": null
+        },
+        {
+            "text": "e+B~",
+            "cleaned": "e+B~",
+            "pii_type": null
+        },
+        {
+            "text": "64 5",
+            "cleaned": "64 5",
+            "pii_type": null
+        },
+        {
+            "text": "@r-b Ndrset",
+            "cleaned": "Dr.",
+            "pii_type": null
+        },
+        {
+            "text": "24",
+            "cleaned": "24",
+            "pii_type": null
+        },
+        {
+            "text": "Approved Numa)",
+            "cleaned": "Approved Numa)",
+            "pii_type": null
+        },
+        {
+            "text": "(Approved Name)",
+            "cleaned": "(Approved Name)",
+            "pii_type": null
+        },
+        {
+            "text": "9atL",
+            "cleaned": "9atL",
+            "pii_type": null
+        },
+        {
+            "text": "Sap",
+            "cleaned": "Sap",
+            "pii_type": null
+        },
+        {
+            "text": "#ICPHLV Vui",
+            "cleaned": "#ICPHLV Vui",
+            "pii_type": null
+        },
+        {
+            "text": "6",
+            "cleaned": "6",
+            "pii_type": null
+        },
+        {
+            "text": "Njbmvm cle",
+            "cleaned": "Njbmvm cle",
+            "pii_type": null
+        },
+        {
+            "text": "KEAAS",
+            "cleaned": "KEAAS",
+            "pii_type": null
+        },
+        {
+            "text": "7o",
+            "cleaned": "7o",
+            "pii_type": null
+        },
+        {
+            "text": "XIz [or;HEzvl",
+            "cleaned": "XIz [or;HEzvl",
+            "pii_type": null
+        },
+        {
+            "text": "Ir",
+            "cleaned": "Ir",
+            "pii_type": null
+        },
+        {
+            "text": "Dosr:",
+            "cleaned": "Dosr:",
+            "pii_type": null
+        },
+        {
+            "text": "Route",
+            "cleaned": "Route",
+            "pii_type": null
+        },
+        {
+            "text": "KXher Dirertcm",
+            "cleaned": "KXher Dirertcm",
+            "pii_type": null
+        },
+        {
+            "text": "412)",
+            "cleaned": "412)",
+            "pii_type": null
+        },
+        {
+            "text": "13ZEZrr",
+            "cleaned": "13ZEZrr",
+            "pii_type": null
+        },
+        {
+            "text": "lOtuCwestrn",
+            "cleaned": "lOtuCwestrn",
+            "pii_type": null
+        },
+        {
+            "text": "12",
+            "cleaned": "12",
+            "pii_type": null
+        },
+        {
+            "text": "TA~",
+            "cleaned": "TA~",
+            "pii_type": null
+        },
+        {
+            "text": "IC4",
+            "cleaned": "IC4",
+            "pii_type": null
+        },
+        {
+            "text": "S/o",
+            "cleaned": "S/o",
+            "pii_type": null
+        },
+        {
+            "text": "Tte",
+            "cleaned": "Tte",
+            "pii_type": null
+        },
+        {
+            "text": "14",
+            "cleaned": "14",
+            "pii_type": null
+        },
+        {
+            "text": "3WA",
+            "cleaned": "3WA",
+            "pii_type": null
+        },
+        {
+            "text": "Fio",
+            "cleaned": "Fio",
+            "pii_type": null
+        },
+        {
+            "text": "(#imey",
+            "cleaned": "(#imey",
+            "pii_type": null
+        },
+        {
+            "text": "(6x",
+            "cleaned": "(6x",
+            "pii_type": null
+        },
+        {
+            "text": "1f1",
+            "cleaned": "1f1",
+            "pii_type": null
+        },
+        {
+            "text": "aw",
+            "cleaned": "aw",
+            "pii_type": null
+        },
+        {
+            "text": "ETZTUZTEmt",
+            "cleaned": "ETZTUZTEmt",
+            "pii_type": null
+        },
+        {
+            "text": "8Tme",
+            "cleaned": "8Tme",
+            "pii_type": null
+        },
+        {
+            "text": "Daio & Time| Signanre",
+            "cleaned": "Daio & Time| Signanre",
+            "pii_type": null
+        },
+        {
+            "text": "Ac",
+            "cleaned": "Ac",
+            "pii_type": null
+        },
+        {
+            "text": "jez1wpe",
+            "cleaned": "jez1wpe",
+            "pii_type": null
+        },
+        {
+            "text": "6\"s",
+            "cleaned": "6\"s",
+            "pii_type": null
+        },
+        {
+            "text": "[+x2 kcs h",
+            "cleaned": "[+x2 kcs h",
+            "pii_type": null
+        },
+        {
+            "text": "2",
+            "cleaned": "2",
+            "pii_type": null
+        },
+        {
+            "text": "X%",
+            "cleaned": "Sex",
+            "pii_type": "PATIENT_INFO"
+        },
+        {
+            "text": "JrMAL~D~m",
+            "cleaned": "JrMAL~D~m",
+            "pii_type": null
+        },
+        {
+            "text": "JWw",
+            "cleaned": "JWw",
+            "pii_type": null
+        },
+        {
+            "text": "1ddyhf",
+            "cleaned": "1ddyhf",
+            "pii_type": null
+        },
+        {
+            "text": "AxLe @4 '",
+            "cleaned": "AxLe @4 '",
+            "pii_type": null
+        },
+        {
+            "text": "2;",
+            "cleaned": "2;",
+            "pii_type": null
+        },
+        {
+            "text": "(Appxoved",
+            "cleaned": "(Appxoved",
+            "pii_type": null
+        },
+        {
+            "text": "(Anproverd Narre}",
+            "cleaned": "(Anproverd Narre}",
+            "pii_type": null
+        },
+        {
+            "text": "ZNj-Lopez",
+            "cleaned": "ZNj-Lopez",
+            "pii_type": null
+        },
+        {
+            "text": "GNJ-",
+            "cleaned": "GNJ-",
+            "pii_type": null
+        },
+        {
+            "text": "L",
+            "cleaned": "L",
+            "pii_type": null
+        },
+        {
+            "text": "ofz",
+            "cleaned": "ofz",
+            "pii_type": null
+        },
+        {
+            "text": "KeElt ",
+            "cleaned": "KeElt ",
+            "pii_type": null
+        },
+        {
+            "text": "{Tct",
+            "cleaned": "{Tct",
+            "pii_type": null
+        },
+        {
+            "text": "Ccse",
+            "cleaned": "Ccse",
+            "pii_type": null
+        },
+        {
+            "text": "Ravte Cher Qirectnn",
+            "cleaned": "Ravte Cher Qirectnn",
+            "pii_type": null
+        },
+        {
+            "text": "72",
+            "cleaned": "72",
+            "pii_type": null
+        },
+        {
+            "text": "aEwt",
+            "cleaned": "aEwt",
+            "pii_type": null
+        },
+        {
+            "text": "Dose",
+            "cleaned": "Dose",
+            "pii_type": null
+        },
+        {
+            "text": "Route",
+            "cleaned": "Route",
+            "pii_type": null
+        },
+        {
+            "text": "Olher DJueclipr:",
+            "cleaned": "Olher DJueclipr:",
+            "pii_type": null
+        },
+        {
+            "text": "12",
+            "cleaned": "12",
+            "pii_type": null
+        },
+        {
+            "text": "TcExATFs",
+            "cleaned": "TcExATFs",
+            "pii_type": null
+        },
+        {
+            "text": "Joc",
+            "cleaned": "Joc",
+            "pii_type": null
+        },
+        {
+            "text": "Tv",
+            "cleaned": "Tv",
+            "pii_type": null
+        },
+        {
+            "text": "T~kSx",
+            "cleaned": "T~kSx",
+            "pii_type": null
+        },
+        {
+            "text": "14",
+            "cleaned": "14",
+            "pii_type": null
+        },
+        {
+            "text": "n",
+            "cleaned": "IPD No",
+            "pii_type": "PATIENT_INFO"
+        },
+        {
+            "text": "V1",
+            "cleaned": "V1",
+            "pii_type": null
+        },
+        {
+            "text": "984",
+            "cleaned": "984",
+            "pii_type": null
+        },
+        {
+            "text": "JV",
+            "cleaned": "JV",
+            "pii_type": null
+        },
+        {
+            "text": "tc",
+            "cleaned": "tc",
+            "pii_type": null
+        },
+        {
+            "text": "14",
+            "cleaned": "14",
+            "pii_type": null
+        },
+        {
+            "text": "2DXL",
+            "cleaned": "2DXL",
+            "pii_type": null
+        },
+        {
+            "text": "18",
+            "cleaned": "18",
+            "pii_type": null
+        },
+        {
+            "text": "Da:e; &",
+            "cleaned": "Date",
+            "pii_type": null
+        },
+        {
+            "text": "Data &",
+            "cleaned": "Data &",
+            "pii_type": null
+        },
+        {
+            "text": "(22s",
+            "cleaned": "(22s",
+            "pii_type": null
+        },
+        {
+            "text": "lcYaov",
+            "cleaned": "lcYaov",
+            "pii_type": null
+        },
+        {
+            "text": "34",
+            "cleaned": "34",
+            "pii_type": null
+        },
+        {
+            "text": "slyk bnseoh",
+            "cleaned": "slyk bnseoh",
+            "pii_type": null
+        },
+        {
+            "text": "Situxnet",
+            "cleaned": "Situxnet",
+            "pii_type": null
+        },
+        {
+            "text": "[a14s",
+            "cleaned": "[a14s",
+            "pii_type": null
+        },
+        {
+            "text": "DSR*hL",
+            "cleaned": "DSR*hL",
+            "pii_type": null
+        },
+        {
+            "text": "24",
+            "cleaned": "24",
+            "pii_type": null
+        },
+        {
+            "text": "Dr-g(fpocvedNare]",
+            "cleaned": "Dr.",
+            "pii_type": "DOCTOR"
+        },
+        {
+            "text": "(Approved Namg)",
+            "cleaned": "(Approved Namg)",
+            "pii_type": null
+        },
+        {
+            "text": "@fp",
+            "cleaned": "@fp",
+            "pii_type": null
+        },
+        {
+            "text": "IAs:",
+            "cleaned": "IAs:",
+            "pii_type": null
+        },
+        {
+            "text": "Pan",
+            "cleaned": "Pan",
+            "pii_type": null
+        },
+        {
+            "text": "M~A4",
+            "cleaned": "M~A4",
+            "pii_type": null
+        },
+        {
+            "text": "pter BtesJn",
+            "cleaned": "pter BtesJn",
+            "pii_type": null
+        },
+        {
+            "text": "12",
+            "cleaned": "12",
+            "pii_type": null
+        },
+        {
+            "text": "Dosu",
+            "cleaned": "Dosu",
+            "pii_type": null
+        },
+        {
+            "text": "Ruute Otno Ciection",
+            "cleaned": "Ruute Otno Ciection",
+            "pii_type": null
+        },
+        {
+            "text": "xof Plo",
+            "cleaned": "xof Plo",
+            "pii_type": null
+        },
+        {
+            "text": "Zw\"",
+            "cleaned": "Zw\"",
+            "pii_type": null
+        },
+        {
+            "text": "1e",
+            "cleaned": "1e",
+            "pii_type": null
+        },
+        {
+            "text": "TA",
+            "cleaned": "TA",
+            "pii_type": null
+        },
+        {
+            "text": "4um}",
+            "cleaned": "4um}",
+            "pii_type": null
+        },
+        {
+            "text": "Pho",
+            "cleaned": "Pho",
+            "pii_type": null
+        },
+        {
+            "text": "Ore 0",
+            "cleaned": "Ore 0",
+            "pii_type": null
+        },
+        {
+            "text": "1",
+            "cleaned": "1",
+            "pii_type": null
+        },
+        {
+            "text": "&",
+            "cleaned": "&",
+            "pii_type": null
+        },
+        {
+            "text": "in)e",
+            "cleaned": "in)e",
+            "pii_type": null
+        },
+        {
+            "text": "I0",
+            "cleaned": "I0",
+            "pii_type": null
+        },
+        {
+            "text": "Unllc: &",
+            "cleaned": "Unllc: &",
+            "pii_type": null
+        },
+        {
+            "text": "Tirre] Sgn;hue:",
+            "cleaned": "Tirre] Sgn;hue:",
+            "pii_type": null
+        },
+        {
+            "text": "Viylxt",
+            "cleaned": "Viylxt",
+            "pii_type": null
+        },
+        {
+            "text": "Des?)}F",
+            "cleaned": "Des?)}F",
+            "pii_type": null
+        },
+        {
+            "text": "22",
+            "cleaned": "22",
+            "pii_type": null
+        },
+        {
+            "text": "Rustibo~ 7",
+            "cleaned": "Rustibo~ 7",
+            "pii_type": null
+        },
+        {
+            "text": "Hwles",
+            "cleaned": "Hwles",
+            "pii_type": null
+        },
+        {
+            "text": "E. S4 'IPJA",
+            "cleaned": "E. S4 'IPJA",
+            "pii_type": null
+        },
+        {
+            "text": "CAp",
+            "cleaned": "CAp",
+            "pii_type": null
+        },
+        {
+            "text": "Arekorn",
+            "cleaned": "Arekorn",
+            "pii_type": null
+        },
+        {
+            "text": "N;uth:)",
+            "cleaned": "N;uth:)",
+            "pii_type": null
+        },
+        {
+            "text": "(Approvea Narre;",
+            "cleaned": "(Approvea Narre;",
+            "pii_type": null
+        },
+        {
+            "text": "ornipe",
+            "cleaned": "ornipe",
+            "pii_type": null
+        },
+        {
+            "text": "The:",
+            "cleaned": "The:",
+            "pii_type": null
+        },
+        {
+            "text": "NpLTIrYA",
+            "cleaned": "NpLTIrYA",
+            "pii_type": null
+        },
+        {
+            "text": "10)",
+            "cleaned": "10)",
+            "pii_type": null
+        },
+        {
+            "text": "AE",
+            "cleaned": "AE",
+            "pii_type": null
+        },
+        {
+            "text": "Al",
+            "cleaned": "Al",
+            "pii_type": null
+        },
+        {
+            "text": "Kxier",
+            "cleaned": "Kxier",
+            "pii_type": null
+        },
+        {
+            "text": "6R12\"",
+            "cleaned": "6R12\"",
+            "pii_type": null
+        },
+        {
+            "text": "Jske -",
+            "cleaned": "Jske -",
+            "pii_type": null
+        },
+        {
+            "text": "ple",
+            "cleaned": "ple",
+            "pii_type": null
+        },
+        {
+            "text": "Circciin",
+            "cleaned": "Circciin",
+            "pii_type": null
+        },
+        {
+            "text": "0p5",
+            "cleaned": "0p5",
+            "pii_type": null
+        },
+        {
+            "text": "Rculu",
+            "cleaned": "Rculu",
+            "pii_type": null
+        },
+        {
+            "text": "Olhe Cituelon",
+            "cleaned": "Olhe Cituelon",
+            "pii_type": null
+        },
+        {
+            "text": "12",
+            "cleaned": "12",
+            "pii_type": null
+        },
+        {
+            "text": "cow| Pto",
+            "cleaned": "cow| Pto",
+            "pii_type": null
+        },
+        {
+            "text": "Oau_",
+            "cleaned": "Oau_",
+            "pii_type": null
+        },
+        {
+            "text": "Qlo |rs_",
+            "cleaned": "Qlo |rs_",
+            "pii_type": null
+        },
+        {
+            "text": "\"a",
+            "cleaned": "Age",
+            "pii_type": "PATIENT_INFO"
+        },
+        {
+            "text": "(c",
+            "cleaned": "(c",
+            "pii_type": null
+        },
+        {
+            "text": "Doxe",
+            "cleaned": "Doxe",
+            "pii_type": null
+        },
+        {
+            "text": "Srralire",
+            "cleaned": "Srralire",
+            "pii_type": null
+        },
+        {
+            "text": "\"",
+            "cleaned": "\"",
+            "pii_type": null
+        },
+        {
+            "text": "Dale & Timo",
+            "cleaned": "Dale & Timo",
+            "pii_type": null
+        },
+        {
+            "text": "[Slyaa:o >tvy",
+            "cleaned": "[Slyaa:o >tvy",
+            "pii_type": null
+        },
+        {
+            "text": "3",
+            "cleaned": "3",
+            "pii_type": null
+        },
+        {
+            "text": "ilyr",
+            "cleaned": "ilyr",
+            "pii_type": null
+        },
+        {
+            "text": "AJ 'R)",
+            "cleaned": "AJ 'R)",
+            "pii_type": null
+        },
+        {
+            "text": "#t)",
+            "cleaned": "Date",
+            "pii_type": null
+        },
+        {
+            "text": "Y, 4",
+            "cleaned": "Y, 4",
+            "pii_type": null
+        },
+        {
+            "text": "(A(GAIt",
+            "cleaned": "(A(GAIt",
+            "pii_type": null
+        },
+        {
+            "text": "cJ",
+            "cleaned": "cJ",
+            "pii_type": null
+        },
+        {
+            "text": "Crug",
+            "cleaned": "Crug",
+            "pii_type": null
+        },
+        {
+            "text": "8hLH",
+            "cleaned": "8hLH",
+            "pii_type": null
+        },
+        {
+            "text": "Timc",
+            "cleaned": "Timc",
+            "pii_type": null
+        },
+        {
+            "text": "Sgs.Jm",
+            "cleaned": "Sgs.Jm",
+            "pii_type": null
+        },
+        {
+            "text": "Onij",
+            "cleaned": "Onij",
+            "pii_type": null
+        },
+        {
+            "text": "2m4",
+            "cleaned": "2m4",
+            "pii_type": null
+        },
+        {
+            "text": "KP",
+            "cleaned": "KP",
+            "pii_type": null
+        },
+        {
+            "text": "1",
+            "cleaned": "1",
+            "pii_type": null
+        },
+        {
+            "text": "Dale =",
+            "cleaned": "Dale =",
+            "pii_type": null
+        },
+        {
+            "text": "Tine",
+            "cleaned": "Tine",
+            "pii_type": null
+        },
+        {
+            "text": "Date",
+            "cleaned": "Date",
+            "pii_type": null
+        },
+        {
+            "text": "ScngWu",
+            "cleaned": "ScngWu",
+            "pii_type": null
+        },
+        {
+            "text": "Drug",
+            "cleaned": "Dr.",
+            "pii_type": null
+        },
+        {
+            "text": "Oruy",
+            "cleaned": "Oruy",
+            "pii_type": null
+        },
+        {
+            "text": "IwEi",
+            "cleaned": "IwEi",
+            "pii_type": null
+        },
+        {
+            "text": "Dose",
+            "cleaned": "Dose",
+            "pii_type": null
+        },
+        {
+            "text": "Rcule",
+            "cleaned": "Rcule",
+            "pii_type": null
+        },
+        {
+            "text": "Dale",
+            "cleaned": "Dale",
+            "pii_type": null
+        },
+        {
+            "text": "pm",
+            "cleaned": "pm",
+            "pii_type": null
+        },
+        {
+            "text": "Sinaxre",
+            "cleaned": "Sinaxre",
+            "pii_type": null
+        },
+        {
+            "text": "NQu",
+            "cleaned": "NQu",
+            "pii_type": null
+        },
+        {
+            "text": "Drugi",
+            "cleaned": "Dr.",
+            "pii_type": null
+        },
+        {
+            "text": "Drug-",
+            "cleaned": "Dr.",
+            "pii_type": null
+        },
+        {
+            "text": "Nae)",
+            "cleaned": "Nae)",
+            "pii_type": null
+        },
+        {
+            "text": "nt]",
+            "cleaned": "Patient Name",
+            "pii_type": "PATIENT_INFO"
+        },
+        {
+            "text": "Time",
+            "cleaned": "Time",
+            "pii_type": null
+        },
+        {
+            "text": "Siynaiuie",
+            "cleaned": "Siynaiuie",
+            "pii_type": null
+        },
+        {
+            "text": "Tine",
+            "cleaned": "Tine",
+            "pii_type": null
+        },
+        {
+            "text": "Sizna:c",
+            "cleaned": "Sizna:c",
+            "pii_type": null
+        },
+        {
+            "text": "Orn",
+            "cleaned": "Orn",
+            "pii_type": null
+        },
+        {
+            "text": "kV 80LH",
+            "cleaned": "kV 80LH",
+            "pii_type": null
+        },
+        {
+            "text": "eTfIlac",
+            "cleaned": "eTfIlac",
+            "pii_type": null
+        },
+        {
+            "text": "Dose",
+            "cleaned": "Dose",
+            "pii_type": null
+        },
+        {
+            "text": "Roule",
+            "cleaned": "Roule",
+            "pii_type": null
+        },
+        {
+            "text": "pLe)",
+            "cleaned": "pLe)",
+            "pii_type": null
+        },
+        {
+            "text": "Bata",
+            "cleaned": "Bata",
+            "pii_type": null
+        },
+        {
+            "text": "Sigualre",
+            "cleaned": "Sigualre",
+            "pii_type": null
+        },
+        {
+            "text": "Drug",
+            "cleaned": "Dr.",
+            "pii_type": null
+        },
+        {
+            "text": "EECrlv",
+            "cleaned": "EECrlv",
+            "pii_type": null
+        },
+        {
+            "text": "Duso",
+            "cleaned": "Duso",
+            "pii_type": null
+        },
+        {
+            "text": "I01`",
+            "cleaned": "I01`",
+            "pii_type": null
+        },
+        {
+            "text": "Pofe",
+            "cleaned": "Pofe",
+            "pii_type": null
+        },
+        {
+            "text": "nk-",
+            "cleaned": "nk-",
+            "pii_type": null
+        },
+        {
+            "text": "50\"",
+            "cleaned": "50\"",
+            "pii_type": null
+        },
+        {
+            "text": "Trn\u20ac:",
+            "cleaned": "Trn\u20ac:",
+            "pii_type": null
+        }
+    ]
+}
